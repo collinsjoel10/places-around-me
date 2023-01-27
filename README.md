@@ -49,8 +49,8 @@ Run the server
 
 
 ## Output:
-![Screenshot from 2023-01-09 23-38-09](https://user-images.githubusercontent.com/118626456/215143400-eab8f724-e939-4ac8-b88d-e79ace51d664.png)
-![Screenshot from 2023-01-09 23-49-19](https://user-images.githubusercontent.com/118626456/215143521-e505dc00-8da3-46a3-9d1d-4424fb8355c1.png)
+![Screenshot from 2023-01-09 23-38-09](https://user-images.githubusercontent.com/118626456/215145562-ea948291-582d-4a2c-856a-f519ffa8c0db.png)
+![Screenshot from 2023-01-09 23-49-19](https://user-images.githubusercontent.com/118626456/215145709-70806f09-59b6-4430-b1c6-8ecab9fe255f.png)
 
 
 ## Result:
